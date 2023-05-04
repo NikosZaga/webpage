@@ -1,0 +1,34 @@
+As a university student, you are at the forefront of shaping the future. You have the power to inspire and innovate,
+and to make a difference in the world. Embrace your creativity and curiosity, and don't be afraid to take risks and 
+try new things. Your education is providing you with the tools and knowledge you need to succeed, but it's up to you 
+to use them in a way that will make a positive impact. Whether you're studying science, business, the arts, or anything 
+in between, you have the potential to create something truly amazing. So don't hold back, let your ideas flow and see 
+where they take you. The future is yours to shape, and the possibilities are endless.
+
+//needs some editing:
+As a university student, you have the potential to be a source of inspiration for others. You are surrounded by people from 
+all walks of life, with different perspectives, experiences, and passions. By sharing your own unique journey and accomplishments, 
+you can inspire others to pursue their own goals and dreams. Innovation often comes from a place of inspiration, and by staying 
+curious and open-minded, you can discover new ways to solve problems and create positive change in the world. Don't be afraid to 
+think outside the box and take risks. The road to success is not always easy, but it is always worth it. Remember, the only limit 
+to what you can achieve is the limit you set for yourself. So go out there, chase your dreams, and be an inspiration to others along 
+the way.
+
+//universities:
+
+Welcome to Eden University, where interdisciplinary studies and a tranquil campus environment inspire students to reach their full potential. 
+With world-renowned faculty and state-of-the-art facilities, we provide a welcoming and inclusive community for all students to explore their
+ passions and grow as individuals.
+
+Welcome to Sigma University, where innovation and collaboration drive student success. Our dynamic campus fosters a culture of creativity and problem-solving, 
+inspiring students to take on the challenges of today's world. Our expert faculty bring real-world experience and cutting-edge research into the classroom, 
+empowering students to become leaders in their fields. With a diverse student body and a supportive community, Sigma University offers a welcoming and inclusive 
+environment where every student can thrive.
+
+Welcome to Brick House University, where tradition and innovation meet to create an exceptional educational experience. 
+Our historic campus boasts a rich legacy of academic excellence, combined with state-of-the-art facilities and modern teaching methods. 
+Our world-class faculty are passionate about teaching and research, and are dedicated to helping students achieve their goals. 
+At Brick House University, we believe that education should be transformational, and we provide a supportive and inclusive community 
+that empowers students to become leaders in their fields. Whether you're a first-time freshman or a seasoned professional seeking to 
+enhance your skills, we invite you to join our vibrant community and embark on a journey of lifelong learning.
+
