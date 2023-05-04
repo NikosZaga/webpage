@@ -1,0 +1,43 @@
+.container{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width:fit-content;
+    height:fit-content;
+    padding: 10px 50px;
+    border-radius: 10px;
+    background-color:rgba(13, 68, 186, 0.582);;
+}
+
+.submit1 {
+    padding: 9px 25px;
+    background-color: rgb(34, 99, 34);/* rgb(12, 8, 56);*/
+    border: none;
+    border-radius: 50px;
+    cursor : pointer;
+    transition: all 0.3s ease 0s;
+    color: white;
+}
+.submit1 :hover {
+    background-color: rgb(34, 99, 34,0.8); /* rgb(12, 8, 56,0.8);*/
+    font-weight: 1000;
+}
+
+.radioGroup{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+label{
+    padding: 10px;
+    font-weight: bolder;
+}
+input {
+    padding: 0.5rem;
+    border-radius: 5px;
+    border: 1px solid;
+}

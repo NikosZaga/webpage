@@ -1,0 +1,105 @@
+.reqsGrid{
+    display: grid;
+    gap: 2em;
+    grid-template-columns: 2.5fr 1.5fr;
+}
+
+.popup-container{
+    position: relative;
+    cursor:pointer;
+    display: inline-block;
+  }
+  
+.popup-message {
+display: none;
+position: absolute;
+top: -10px;
+left: 70%;
+background-color: #fff;
+color: #333;
+border: 1px solid #333;
+padding: 5px;
+border-radius: 5px;
+font-weight: lighter;
+width: 240px;
+transform: translateX(-50%);
+}
+
+.popup-message::before{
+  content: "";
+  position: absolute;
+  left: 50%;
+  top:100%;
+  transform: translateX(-50%);
+
+}
+
+.popup-container:hover .popup-message {
+
+  display: block;
+}
+
+img{
+    width:70%;
+    height:auto;
+}
+
+.side1 a{
+  border: none;
+  padding: 30px;
+}
+
+.side1 a:hover{
+  border-radius: 10px;
+  background-color: rgba(180, 237, 247, 0.479);;
+}
+
+.side2{
+    border-radius: 10px;
+    background-color:rgba(13, 68, 186, 0.582);
+    padding: 10px 50px;
+}
+
+.side2 h1{
+    color:rgb(5, 23, 61);
+}
+
+.side2 form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 1rem;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+label {
+    display: block;
+    align-items: center;
+    font-weight: bold;
+    padding-bottom: 1em;
+  }
+
+
+select , input[type="number"] {
+  padding: 0.5rem;
+  border-radius: 5px;
+  border: 1px solid;
+}
+
+input[type="submit"] {
+    padding: 9px 25px;
+    background-color: rgb(34, 99, 34);/* rgb(12, 8, 56);*/
+    border: none;
+    border-radius: 50px;
+    cursor : pointer;
+    transition: all 0.3s ease 0s;
+    color: white;
+}
+
+.radioGroup{
+  display:inline-block;
+  text-align: left;
+}
